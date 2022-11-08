@@ -121,3 +121,4 @@ for _ in range(int(input())):
     
     if is_consistency:
         print('YES')
+        
